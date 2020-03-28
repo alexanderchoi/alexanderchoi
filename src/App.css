@@ -19,3 +19,9 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
+.Display {
+  width: 100vw;
+  background-color: teal;
+  height: 400px;
+}
